@@ -19,7 +19,7 @@ Install Required modules to run the py app
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/image.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Text-to-Speech/blob/main/screenshots/image.png)
 
 
 ## Support

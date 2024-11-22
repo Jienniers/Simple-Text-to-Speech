@@ -19,7 +19,7 @@ Install Required modules to run the py app
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1123218533661286450/1199134406107992204/image.png)
+![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/image.png)
 
 
 ## Support

@@ -17,15 +17,12 @@ Install Required modules to run the py app
 - Write anything and click on speech
 
 
-## Logo
-
-![Logo](https://cdn.discordapp.com/attachments/1123218533661286450/1199133800261767208/conversation.png)
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1123218533661286450/1199134406107992204/image.png)
 
 
-## Feedback
+## Support
 
-If you have any feedback, please reach out to us at codeMaestroy105@outlook.com
+If you encounter any issues or have suggestions for improvement, please submit an issue on the GitHub repository.
 
